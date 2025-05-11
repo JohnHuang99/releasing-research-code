@@ -1,4 +1,4 @@
-# My Paper Title
+# Small LLMs Can Rock! Difficulty-Aware CoT Distillation for SQL Generation
 
 This repository is the official implementation of [Small LLMs Can Rock! Difficulty-Aware CoT Distillation for SQL Generation]. 
 
