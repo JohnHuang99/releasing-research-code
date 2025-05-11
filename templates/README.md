@@ -35,7 +35,7 @@ Note that during inference, you need to first generate CoTs. Next, you need to r
 To evaluate the proposed framework, please run this command:
 
 ```test
-python test.py
+sh src/test.sh
 ```
 
 ## Pre-trained Models
