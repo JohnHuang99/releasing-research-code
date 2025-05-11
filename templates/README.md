@@ -28,6 +28,7 @@ For model inference, please run this command:
 ```inference
 sh src/eval.sh
 ```
+Note that during inference, you need to first generate CoTs. Next, you need to remove the code related to CoT generation. Finally, you need to use the code related to SQL generation.
 
 ## Evaluation
 
